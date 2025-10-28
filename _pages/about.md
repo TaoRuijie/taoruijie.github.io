@@ -19,7 +19,7 @@ redirect_from:
 
 I am the Audio AI Enginner in Zoom, Singapore. Prior to that, from 2023 to 2024, I was the Research Fellow in National University of Singapore (NUS). I received the PhD and Master Degree from NUS in 2023 and 2019, supervised by Prof. [Li Haizhou](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en), Bachelor Degree from Soochow University in 2018.
 
-My research interest includes (audio-only or audio-visual) speech processing: enhancement, extraction and seperation; speaker processing: recognition, diarization, active speaker detection and anti-spoofing. I also work in self-supervised learning. I have published more than 20 papers at the top international AI conferences and journals such as TASLP, TMM, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes (audio-only or audio-visual) speech processing: enhancement, extraction and seperation; speaker processing: recognition, diarization, active speaker detection and anti-spoofing. I also work in self-supervised learning. I have published more than 30 papers at the top international AI conferences and journals such as TASLP, TMM, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
 
@@ -43,8 +43,16 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 
 # 📝 Publication
 
+**2025**
+- [Voice Conversion Augmentation for Speaker Recognition on Defective Datasets](https://arxiv.org/pdf/2404.00863), **Ruijie Tao**, Zhan Shi, Yidi Jiang, Tianchi Liu, Haizhou Li, **APSIPA**, <font color="red">Best Paper</font>, 2025.
+- [Interpolating Speaker Identities in Embedding Space for Data Expansion](https://arxiv.org/pdf/2508.19210?), Tianchi Liu, Ruijie Tao, Qiongqiong Wang, Yidi Jiang, Hardik B Sailor, Ke Zhang, Jingru Lin, Haizhou Li, **APSIPA**, 2025.
+- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), **Ruijie Tao**, Xinyuan Qian, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, **TASLP**, 2025.
+- [A Benchmark for Multi-speaker Anonymization](https://arxiv.org/pdf/2407.05608), Xiaoxiao Miao, **Ruijie Tao**, Chang Zeng, Xin Wang, **TIFS**, 2025.
+- [Target Speech Diarization with Multimodal Prompts](https://arxiv.org/pdf/2406.07198), Yidi Jiang, **Ruijie Tao**, Zhengyang Chen, Yanmin Qian, Haizhou Li, **TASLP**, 2025.
+- [QAMO: Quality-aware Multi-centroid One-class Learning For Speech Deepfake Detection](https://arxiv.org/pdf/2509.20679), Duc-Tuan Truong, Tianchi Liu, **Ruijie Tao**, Junjie Li, Kong Aik Lee, Eng Siong Chng, **Under Review**, 2025;
+- [Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection]([https://arxiv.org/pdf/2509.20679](https://arxiv.org/pdf/2509.20682?)), Duc-Tuan Truong, Tianchi Liu, Junjie Li, **Ruijie Tao**, Kong Aik Lee, Eng Siong Chngg, **Under Review**, 2025;
+
 **2024**
-- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), **Ruijie Tao**, Xinyuan Qian, Yidi Jiang, Junjie Li, Jiadong Wang, Haizhou Li, **TASLP**, 2024.
 - [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), **Ruijie Tao**, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, Jiadong Wang, Haizhou Li, **TMM**, 2024.
 - [Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization](https://arxiv.org/pdf/2407.17902) **Ruijie Tao**, Shi Zhan, Yidi Jiang, Duc-Tuan Truong, Eng-Siong Chng, Massimo Alioto and Haizhou Li. **ACM Multimedia**, 2024, [![](https://img.shields.io/github/stars/TaoRuijie/MFV-KSD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/MFV-KSD)
 - [Voice Conversion Augmentation for Speaker Recognition on Defective Datasets](https://arxiv.org/pdf/2404.00863), **Ruijie Tao**, Zhan Shi, Yidi Jiang, Tianchi Liu, Haizhou Li, **Under Review**, 2024.
@@ -53,9 +61,7 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 - [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024. [![](https://img.shields.io/github/stars/ductuantruong/enskd?style=social&label=Code+Stars)](https://github.com/ductuantruong/enskd)
 - [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
 - [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP**, <font color="red">Oral</font>, 2024.
-- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Under Review**, 2024.
-- [A Benchmark for Multi-speaker Anonymization](https://arxiv.org/pdf/2407.05608), Xiaoxiao Miao, **Ruijie Tao**, Chang Zeng, Xin Wang, **Under Review**, 2024.
-- [Target Speech Diarization with Multimodal Prompts](https://arxiv.org/pdf/2406.07198), Yidi Jiang, **Ruijie Tao**, Zhengyang Chen, Yanmin Qian, Haizhou Li, **Under Review**, 2024.
+- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **TASLP**, 2024.
 
 
 **2023**
@@ -84,6 +90,7 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
 # 💻 Open Source Code
+- *Audio-visual target speech extraction* [![](https://github.com/TaoRuijie/SEANet)]
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
 - *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
@@ -99,6 +106,7 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 # 🎖 Others
 
 **Award**
+- APSIPA Best Paper Award (1 of 500+), 2025
 - The 1st place winner in FAME Challenge, ACM-Multimedia, 2024
 - Egocentric Vision (EgoVis) 2022/2023 Distinguished Paper Award, 2024
 - IEEE SLP Student Travel Grant, ICASSP Best Paper Nominee (Corresponding author), 2024
@@ -112,6 +120,7 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 **Reviewer**
 
 - Computer Vision and Pattern Recognition Conference (CVPR),
+- ACM-Multimedia (MM),
 - IEEE Transactions on Audio, Speech, and Language Processing (TASLP),
 - IEEE Transactions on Information Forensics and Security (TIFS),
 - IEEE The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
