@@ -90,7 +90,7 @@ My research interest includes (audio-only or audio-visual) speech processing: en
 - [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
 # 💻 Open Source Code
-- *Audio-visual target speech extraction* [![](https://github.com/TaoRuijie/SEANet)]
+- *Audio-visual target speech extraction* [![](https://img.shields.io/github/stars/TaoRuijie/SEANet?style=social&label=SEANet)](https://github.com/TaoRuijie/SEANet)
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
 - *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
 - *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
