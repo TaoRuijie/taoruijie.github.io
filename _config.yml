@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Ruijie (陶睿杰)"
-description              : "Audio AI Engineer at Zoom, Singapore"
+description              : "Senior Audio Engineer at Zoom, Singapore"
 repository               : "taoruijie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tao Ruijie"
-  avatar           : "images/my_pic.jpg"
+  avatar           : "images/02_布布_熊帽吐舌.gif"
   bio              : "CV"
   location         : "Singapore"
   employer         :
